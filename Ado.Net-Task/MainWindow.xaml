@@ -1,0 +1,20 @@
+﻿<Window x:Class="Ado.Net_Task.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ado.Net_Task"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid 
+            Margin="10,85,10,10"
+            Name="datagrid"  />
+        <Button
+            FontSize="18"
+            Content="Order Detail" Margin="553,28,42,358" Click="Button_Click"/>
+        <ComboBox 
+            Margin="26,28,614,358"
+            Name="cmx_Order" SelectionChanged="cmx_Order_SelectionChanged"/>
+    </Grid>
+</Window>

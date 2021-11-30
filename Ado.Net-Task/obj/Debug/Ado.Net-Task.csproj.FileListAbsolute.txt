@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\bin\Debug\Ado.Net-Task.exe.config
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\bin\Debug\Ado.Net-Task.exe
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\bin\Debug\Ado.Net-Task.pdb
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\Ado.Net-Task.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\Ado.Net-Task_MarkupCompile.cache
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\Ado.Net-Task_MarkupCompile.lref
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\Ado.Net-Task.g.resources
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\Ado.Net_Task.Properties.Resources.resources
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\Ado.Net-Task.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\Ado.Net-Task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\Ado.Net-Task.exe
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\Ado.Net-Task.pdb
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\OrderDetailWindow.g.cs
+C:\Users\Admin\source\repos\Ado.Net-Task\Ado.Net-Task\obj\Debug\OrderDetailWindow.baml

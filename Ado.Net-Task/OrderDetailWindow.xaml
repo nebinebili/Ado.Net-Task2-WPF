@@ -1,0 +1,69 @@
+﻿<Window x:Class="Ado.Net_Task.OrderDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ado.Net_Task"
+        mc:Ignorable="d"
+        Title="OrderDetailWindow" Height="600" Width="400">
+    <Grid>
+        <Label
+            Height="40"
+            Width="100"
+            Content="OrderId"
+            FontSize="20" Margin="10,26,282,503">
+            
+        </Label>
+        <Label
+            Height="40"
+            Width="170"
+            FontSize="20"
+            Name="lbl_orderId" Margin="10,71,282,458">
+            
+        </Label>
+        <Label
+            Height="40"
+            Width="100"
+            Content="ProductId"
+            FontSize="20" Margin="10,116,282,413"/>
+        <Label
+            Height="40"
+            Width="170"
+            FontSize="20"
+            x:Name="lbl_productId" 
+            Margin="10,156,212,373"/>
+        <Label
+            Height="40"
+            Width="100"
+            Content="UnitPrice"
+            FontSize="20" Margin="10,201,282,328"/>
+        <Label
+            Height="40"
+            Width="170"
+            FontSize="20"
+            x:Name="lbl_unitPrice" 
+            Margin="10,241,212,288"/>
+        <Label
+            Height="40"
+            Width="100"
+            Content="Quantity"
+            FontSize="20" Margin="10,281,282,248"/>
+        <Label
+            Height="40"
+            Width="170"
+            FontSize="20"
+            x:Name="lbl_quantity" 
+            Margin="10,326,212,203"/>
+        <Label
+            Height="40"
+            Width="100"
+            Content="Discount"
+            FontSize="20" Margin="10,366,282,163"/>
+        <Label
+            Height="40"
+            Width="170"
+            FontSize="20"
+            x:Name="lbl_discount" 
+            Margin="10,411,212,118"/>
+    </Grid>
+</Window>
